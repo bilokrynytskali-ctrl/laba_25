@@ -1,0 +1,12 @@
+{
+  "name": "task5",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "ES6 modules",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Білокриницька Лілія",
+  "license": "ISC"
+}
